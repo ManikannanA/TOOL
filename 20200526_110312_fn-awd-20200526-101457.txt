@@ -5,10 +5,10 @@ RVCA0078151686																				MISCRV										05262020purchase agreement				
 ADP003272938																				MISC										05262020Proof of Sale							2206				   {004F5172-0000-C532-BF0-36EAF4FBBC13}mendoj2			    PROPERTY				04EA		
 ADP003272938																				MISC										05262020Proof of real estate sale				20300				   {F04D5162-0100-CC58-AE5A-412391BF03B8}mendoj2												
 RVCA0078162047																				SALESRECEIPT								05262020bill of sale for agreed value			70501				   {F04D5172-0100-CC58-AE5A-422391BF03B8}laraj2			    POWERSPORTS				32EA
-RVCA0078151686																				MISCRV										05262020purchase agreement						02772				   {DO4C5172-0000-B354-AE5A-COF5F6DOD9EC}AJTOO9			    POWERSPORTS				144
+RVCA0078151686																				MISCRV										05262020purchase agreement						02772				   {E0BE3D72-0100-C3D0-B4C7-80E570B13B65}AJTOO9			    POWERSPORTS				144
+AADP003272938																				MISC										05262020Proof of Sale							2206				   {EB0E3F72-0100-C3D0-B4C7-80E570B13B65}mendoj2			    PROPERTY				04EA		
 AADP003272938																				MISC										05262020Proof of Sale							2206				   {004F5172-0000-C532-BF0-36EAF4FBBC13}mendoj2			    PROPERTY				04EA		
-AADP003272938																				MISC										05262020Proof of Sale							2206				   {004F5172-0000-C532-BF0-36EAF4FBBC13}mendoj2			    PROPERTY				04EA		
-ADP003272938																				MISC										05262020Proof of real estate sale				40506				   {F04D5162-0100-CC58-AE5A-462391BF03B8}mendoj2												
+ADP003272938																				MISC										05262020Proof of real estate sale				40506				   {EB0E3D72-0100-C3D0-B4C7-80E570B13B65}mendoj2												
 RVCA0078162047																				SALESRECEIPT								05262020bill of sale for agreed value			70507				   {F04D5172-0100-CC58-AE5A-464391BF03B8}laraj2			    POWERSPORTS				32EA
 RVCA0078151686																				MISCRV										05262020purchase agreement						02778				   {DO4C5172-0000-B354-AE5A-COF5F6DOD9EC}AJTOO9			    POWERSPORTS				144
 AADP003272938																				MISC										05262020Proof of Sale							2206				   {004F5172-0000-C532-BF0-36EAF4FBBC13}mendoj2			    PROPERTY				04EA		
@@ -24,3 +24,4 @@ RVCA0078162047																				SALESRECEIPT								05262020bill of sale for a
 RVCA0078151686																				MISCRV										05262020purchase agreement						02877				   {DO4C5172-0000-B354-AE5A-COF5F6DOD9EC}AJTOO9			    POWERSPORTS				144
 RVCA0078162047																				SALESRECEIPT								05262020bill of sale for agreed value			72500				   {F04D5172-0100-CC58-AE5A-462691BF03B8}laraj2			    POWERSPORTS				32EA
 RVCA0078151686																				MISCRV										05262020purchase agreement						32777				   {DO4C5172-0000-B354-AE5A-COF5F6DOD9EC}AJTOO9			    POWERSPORTS				144A
+																																																			    EB0BE3D72-0100-C3D0-B4C7-80E570B13B65												
