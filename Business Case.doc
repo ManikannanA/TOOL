@@ -1,0 +1,11 @@
+1.Csr void: Move to docvaut success. 
+2.Anything with 1KB Size: Move to docvault success folder. 
+3.If the file is not CSR_Void and over 1KB: need to figure out which policies did not go through  and run them again.  
+4.To do this search by the file name (without the create datetime) in 1599 success folder,if it comes up,open and see which policy number it contains.
+Such format:File name starting from "fn" *remove the create datetime. 
+5.Remove the policy number line that exists in the 1599 success folder. 
+6.Rename the docvault recovery file,to do this,removethe create datetime i.e.everything before the"fn" 
+and add an identifier for example your name.Rerun it. 
+7.If the file does not come up in 1599 success,that means none of the policies processed. 
+Rename the file and re run the whole file again. 
+8.If it comes back to recovery,move to docvault success.
