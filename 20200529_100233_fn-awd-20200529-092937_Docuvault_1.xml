@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AND SYSTEM "E:\AWF\Upload10\2543\upload.dtd">
+<AWD>
+	<TASK><![CDATA[
+	   		<createInstences xmlns="https://www.dsttechnologies.com/awd/rest/v1">
+			<createInstence>
+				<LOCK></LOCK>
+				<businessAreaName>POWERSPORT</businessAreaName>
+				<typeName>PWRSALERE</typeName>
+				<statusName>VERIFIED</statusName>
+				<fieldValues>
+					<filedValue name="AGNO">
+						<value>21967</value>
+					</filedValue>
+					<filedValue name="LNAM">
+						<value></value>
+					</filedValue>
+					<filedValue name="STTE">
+						<value>24</value>
+					</filedValue>
+					<filedValue name="PRFX">
+						<value>HOA</value>
+					</filedValue>
+					<filedValue name="PNUM">
+						<value>0047413003</value>
+					</filedValue>
+					<filedValue name="SRCE">
+						<value>FFR_Docvault</value>
+					</filedValue>
+				</fieldValues>
+				<createRelationships>
+					<createRelationshipIds>DocVault.txt</createRelationshipIds>
+				</createRelationships>
+			</createInstence>
+			<createSourceInstance relationshipID="DocVault.txt">
+				<businessAreaName>POWERSPORT</businessAreaName>
+				<typeName>IMAGE</typeName>
+				<fieldValues>
+					<filedValue name="GUID">
+						<value>{A0966072-0000-CE7C-ABD3-F374649EFA73}</value>
+					</filedValue>
+				</fieldValues>
+			</createSourceInstance>
+		</createInstences>
+		]]>
+	</TASK>
+</AWD>
