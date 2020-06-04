@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!DOCTYPE AND SYSTEM "E:\AWDTool\AWDTool\upload.dtd">
+<AWD>
+	<TASK><![CDATA[
+		<createInstences xmlns="https://www.dsttechnologies.com/awd/rest/v1">
+			<createInstence>
+				<LOCK>FALSE</LOCK>
+				<businessAreaName>SLSCOMP</businessAreaName>
+				<typeName>MISC</typeName>
+				<statusName>CREATED</statusName>
+				<fieldValues>
+					<filedValue name="IDFY">
+						<value>the value is not more than 75 characters in this tag. if its there could be remove from suffix allowed only 75 characters</value>
+					</filedValue>
+					<filedValue name="EMAL">
+						<value> we need to chack here also no mo more than 75 characters in the value in the wherever value is  more than 75 characters </value>
+					</filedValue>
+					<filedValue name="SRCE">
+						<value>we need to chack here also no mo more than 75 characters in the value in the wherever value is  more than 7 characters</value>
+					</filedValue>
+				</fieldValues>
+				<createRelationships>
+					<createRelationshipIds>DocVault.txt</createRelationshipIds>
+				</createRelationships>
+			</createInstence>
+			<createSourceInstance relationshipID="DocVault.txt">
+				<businessAreaName>POWERSPORT</businessAreaName>
+				<typeName>IMAGE</typeName>
+				<fieldValues>
+					<filedValue name="GUID">
+						<value>we need to chack here also no mo more than 7 characters in the value in the wherever value is  more than 75 characters </value>
+					</filedValue>
+				</fieldValues>
+			</createSourceInstance>
+		</createInstences>
+		]]>
+	</TASK>
+</AWD>
